@@ -12,7 +12,6 @@ This repository contains my implementation of a **feed-forward neural network cl
 ## Project Structure
 
 ```
-├── requirements.txt         # Python dependencies
 ├── README.md                # this file
 └── classification-with-neural-networks-using-python.ipynb     # main Jupyter notebook with full workflow
 ```
